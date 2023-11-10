@@ -96,6 +96,3 @@ if(count === 1){
 console.log(msg)
 */
 
-/*
-6) Write a program that asks the user for a colour and then changes the background colour of the page to the colour the user enters. The program should repeat this process until the user doesn't enter a colour i.e. the input will be equal to an empty string "". You will need to use a while loop.
-*/
